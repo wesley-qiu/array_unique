@@ -1,0 +1,23 @@
+{
+  "name": "unq-array",
+  "version": "1.0.0",
+  "description": "make an array unique",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesley-qiu/array_unique.git"
+  },
+  "keywords": [
+    "javascript",
+    "array",
+    "unique"
+  ],
+  "author": "wesley-qiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wesley-qiu/array_unique/issues"
+  },
+  "homepage": "https://github.com/wesley-qiu/array_unique#readme"
+}
