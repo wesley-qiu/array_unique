@@ -6,7 +6,7 @@ make an array unique
 npm install unq-array
 ```
 
-## Useage
+## Usage
 ```javascript
 const array_unique = require('unq-array')
 var arr = [1, 2, 3, 4, 3, 4]
