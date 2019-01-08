@@ -1,5 +1,5 @@
 # array_unique
-make an array unique
+Return a new array that doesnot contain duplicate values
 
 ## Get Package
 ```

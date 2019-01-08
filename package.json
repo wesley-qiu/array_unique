@@ -1,7 +1,7 @@
 {
   "name": "unq-array",
   "version": "1.0.0",
-  "description": "make an array unique",
+  "description": "Return a new array that doesnot contain duplicate values",
   "main": "index.js",
   "scripts": {
   },
